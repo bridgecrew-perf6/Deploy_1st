@@ -41,7 +41,7 @@ cloudpickle
 clyent==1.2.1
 colorama
 conda==4.3.16
-conda-package-handling== 1.7.3
+conda-package-handling== 1.7.0
 constantly==15.1.0
 cookiecutter
 cryptography
