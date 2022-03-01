@@ -210,7 +210,6 @@ requests-oauthlib==1.3.0
 rope
 rsa==4.8
 Rtree
-ruamel-yaml-conda 
 scikit-learn 
 scipy 
 Scrapy==2.5.1
