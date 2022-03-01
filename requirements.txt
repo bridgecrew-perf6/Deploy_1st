@@ -201,16 +201,8 @@ python-utils==2.5.6
 pythreejs==2.3.0
 pytz
 pytz-deprecation-shim==0.1.0.post0
-pywin32==302
-pywin32-ctypes 
 pywinpty
 PyYAML
-pyzmq
-QDarkStyle
-qstylizer 
-QtAwesome
-qtconsole
-QtPy
 queuelib==1.6.2
 regex==2021.11.10
 requests
