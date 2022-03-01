@@ -128,7 +128,6 @@ keyring
 Kivy==2.0.0
 lazy-object-proxy
 libclang==12.0.0
-libmambapy
 llvmlite==0.37.0
 locket==0.2.1
 lxml 
