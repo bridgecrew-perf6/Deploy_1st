@@ -1,5 +1,5 @@
 Automat==20.2.0
-conda==4.11.0
+conda==4.3.16
 fonttools 
 frozendict==2.1.1
 gunicorn==19.9.0
