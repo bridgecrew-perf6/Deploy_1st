@@ -186,8 +186,6 @@ pydocstyle
 pyerfa==2.0.0.1
 pyflakes 
 Pygments 
-pygpu==0.7.6
-pylint 
 pyls-spyder 
 Pympler==1.0.1
 PyNaCl
@@ -198,10 +196,6 @@ PyQt5==5.15.6
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.9.0
 PyQtChart==5.12
-PyQtWebEngine==5.12.1
-pyrsistent
-PySocks
-pyspark==3.2.0
 python-dateutil 
 python-dotenv==0.19.2
 python-lsp-black 
